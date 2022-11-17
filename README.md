@@ -17,6 +17,6 @@ Through these  work experience, I learn how to develop project in Linux/Windows 
  [Chinese Open Domain Question Answering](https://odqa.nlpnchu.org/)
 
 ## 🏅 Achievements
--   📝 **(Accepted Paper)Extracting Crime Prosecution Elements based on Neural Machine Reading Comprehension Model** at 2022 IEEE International Conference BigData Workshop (Nov 2022)
+-   📝 **(Accepted Paper) Extracting Crime Prosecution Elements based on Neural Machine Reading Comprehension Model** at 2022 IEEE International Conference BigData Workshop (Nov 2022)
 -   🥉 **Silver Award  , Court of Justice Special Award , Lawsnote Special Award** at Lawsnote LEGAL-TECH HACKATHON 2022 (Sep 2022)
 -   
