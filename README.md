@@ -34,7 +34,7 @@ Through these  work experience, I learn how to develop project in Linux/Windows 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![vue.js](https://img.shields.io/badge/Vuejs-4FC08D?style=for-the-badge&logo=vuejs&logoColor=white)
+![vue.js](https://img.shields.io/badge/Vuejs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
