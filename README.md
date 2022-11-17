@@ -11,5 +11,7 @@ I'm working as a network manager and TA in NLP lab. I also had a summer internsh
 Through these  work experience, I learn how to develop project in Linux/Windows enviroment and be able to troubleshoot lab's network or software issues. 
  
  Below are some side project that I completed during college.
+ 
  [QA Bot](https://qa.nlpnchu.org/)
+ 
  [Chinese Open Domain Question Answering](https://odqa.nlpnchu.org/)
