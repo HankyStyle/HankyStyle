@@ -41,4 +41,4 @@ Through these  work experience, I learn how to develop project in Linux/Windows 
 ### Backend as a Service (BaaS)
 
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![jenkins](https://img.shields.io/badge/jenkins-00C7B7?style=for-the-badge&logo=jenkins&logoColor=white)
+![jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
