@@ -5,12 +5,16 @@
 
 🎓 I am Han Cheng Yu, a **Software Developer** (specializing in **Back End Applications**) 
 
- I am also Pursuing my Master Degree in Computer Science & Engineering and will graduate in mid-2023.
+ I am also Pursuing my Master Degree in Computer Science & Engineering and will graduate in 2023.
  
 I'm working as a network manager and TA in NLP lab. I also had a summer internship at Intel to develop automation tools for DG&Chrome Team.
 
 Through these  work experience, I learn how to develop project in Linux/Windows enviroment and be able to troubleshoot lab's network or software issues. 
  
+I am seeking internship opportunities this year in software engineering and AI engineering roles to further develop my skills and gain hands-on experience.
+
+Looking ahead, I will look for full-time and rdss opportunities next year as a software engineer and am excited to explore opportunities that will enable me to contribute my skills and experience to innovative and impactful projects.
+
  Below are some side project that I completed during college.
  
  [QA Bot](https://qa.nlpnchu.org/)
