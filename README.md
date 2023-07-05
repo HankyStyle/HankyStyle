@@ -11,7 +11,7 @@ I'm working as a network manager and TA in NLP lab. I also had a summer internsh
 
 Through these  work experience, I learn how to develop project in Linux/Windows enviroment and be able to troubleshoot lab's network or software issues. 
  
-I am seeking internship opportunities this year in software engineering and AI engineering roles to further develop my skills and gain hands-on experience.
+I am having internship in Corning as NLP intern this summer working in software engineering and AI engineering roles to further develop my skills and gain hands-on experience.
 
 Looking ahead, I will look for full-time and rdss opportunities next year as a software engineer and am excited to explore opportunities that will enable me to contribute my skills and experience to innovative and impactful projects.
 
