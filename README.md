@@ -33,7 +33,7 @@ Looking ahead, I am seeking for 2024 full-time and rdss opportunities as a softw
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
+![C++](https://img.shields.io/badge/C++-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### Full Stack Development
 
