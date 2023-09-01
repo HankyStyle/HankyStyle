@@ -3,17 +3,15 @@
 ## 🚀 About Me
 
 
-🎓 I am Han Cheng Yu, a **Software Developer** (specializing in **Back End Applications**) 
+🎓 I am Han Cheng Yu, a **Software Developer** (specializing in **Back End Applications and Data Analysis**) 
 
- I am also Pursuing my Master Degree in Computer Science & Engineering and will graduate in 2023.
- 
-I'm working as a network manager and TA in NLP lab. I also had a summer internship at Intel to develop automation tools for DG&Chrome Team.
+I am a graduated master student in Computer Science & Engineering of National Chung Hsing University.
 
-Through these  work experience, I learn how to develop project in Linux/Windows enviroment and be able to troubleshoot lab's network or software issues. 
- 
-I am having internship in Corning as NLP intern this summer working in software engineering and AI engineering roles to further develop my skills and gain hands-on experience.
+I have experienced in software engineer intern at Intel developing automation tools for Graphic Card & Laptop Team and data scientist intern at Corning building search engine for log analysis.
 
-Looking ahead, I will look for full-time and rdss opportunities next year as a software engineer and am excited to explore opportunities that will enable me to contribute my skills and experience to innovative and impactful projects.
+Through these work experience, I learn how to develop project in Linux/Windows enviroment and develop my skills by hands-on experience.
+
+Looking ahead, I am seeking for 2024 full-time and rdss opportunities as a software engineer and am excited to explore opportunities that will enable me to contribute my skills and experience to innovative and impactful projects.
 
  Below are some side project that I completed during college.
  
@@ -35,6 +33,7 @@ Looking ahead, I will look for full-time and rdss opportunities next year as a s
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
 
 ### Full Stack Development
 
