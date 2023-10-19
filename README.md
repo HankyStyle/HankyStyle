@@ -17,9 +17,7 @@ Looking ahead, I am seeking for 2024 full-time and rdss opportunities as a softw
  
  [QA Bot](https://qa.nlpnchu.org/)
  
- [Chinese Open Domain Question Answering](https://odqa.nlpnchu.org/)
- 
- [QA Bot for Agriculture Domain](https://agri.nlpnchu.org/)
+ [GPT for Agriculture](https://demetergpt.nlpnchu.org/)
 
 ## 🏅 Achievements
 -   📝 **(Accepted Paper) Extracting Crime Prosecution Elements based on Neural Machine Reading Comprehension Model** at 2022 IEEE International Conference BigData Workshop (Nov 2022)
