@@ -15,8 +15,6 @@ Free to contact me if you are interest in me.
 
  Below are some side project that I completed during college.
  
- [QA Bot](https://qa.nlpnchu.org/)
- 
  [GPT for Agriculture](https://demetergpt.nlpnchu.org/)
 
 ## 🏅 Achievements
