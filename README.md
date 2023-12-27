@@ -11,7 +11,7 @@ I have experienced in software engineer intern at Intel developing automation to
 
 Through these work experience, I learn how to develop project in Linux/Windows enviroment and develop my skills by hands-on experience.
 
-Looking ahead, I am seeking for 2024 full-time and rdss opportunities as a software engineer and am excited to explore opportunities that will enable me to contribute my skills and experience to innovative and impactful projects.
+Free to contact me if you are interest in me.
 
  Below are some side project that I completed during college.
  
