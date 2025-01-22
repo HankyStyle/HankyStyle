@@ -7,15 +7,16 @@
 
 I am a graduated master student in Computer Science & Engineering of National Chung Hsing University.
 
+Software Engineer at Appier specializing in fullstack web deployment, with a focus on Google's Privacy Sandbox.
+
+Passionate about generative AI, large-scale distributed systems and leveraging technology to solve complex challenges.
+
 I have experienced in software engineer intern at Intel developing automation tools for Graphic Card & Laptop Team and data scientist intern at Corning building search engine for log analysis.
 
-Through these work experience, I learn how to develop project in Linux/Windows enviroment and develop my skills by hands-on experience.
+Through these work experience, I experienced in designing solutions for global markets and open to relocation.
 
 Free to contact me if you are interest in me.
 
- Below are some side project that I completed during college.
- 
- [GPT for Agriculture](https://demetergpt.nlpnchu.org/)
 
 ## 🏅 Achievements
 -   📝 **(Accepted Paper) Extracting Crime Prosecution Elements based on Neural Machine Reading Comprehension Model** at 2022 IEEE International Conference BigData Workshop (Nov 2022)
